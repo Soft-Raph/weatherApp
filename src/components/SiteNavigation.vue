@@ -14,6 +14,7 @@
         </nav>
     </header>
 </template>
+<!-- we are just practticing with the project so feel free to learn from it ok! -->
 
 <script setup>
 import { RouterLink } from 'vue-router';
