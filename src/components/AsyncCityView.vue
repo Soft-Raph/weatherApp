@@ -131,6 +131,7 @@
       <i class="fa-solid fa-trash"></i>
       <p>Remove City</p>
     </div>
+      <p class="text-white">Made by Ariyo Raphael. Check my <a href="https://www.linkedin.com/in/ayomide-ariyo-023822168/" class="text-orange-500">LinkedIn </a>, <a href="https://twitter.com/AriyoRaphael1"  class="text-rose-500">Twitter</a> out</p>
   </div>
 </template>
 
