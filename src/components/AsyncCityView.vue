@@ -34,7 +34,7 @@
         }}
       </p>
       <p class="text-8xl mb-8">
-        {{ Math.round(((weatherData.current.temp)-32)*0.556)}}&deg;
+        {{ Math.round(((weatherData.current.temp)-32)*0.556)}} &degC
       </p>
       <p>
         Feels like
